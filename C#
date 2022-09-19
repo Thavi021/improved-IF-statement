@@ -1,0 +1,61 @@
+
+            if ( number1== AlphabeticalCallNumber1TB.Text)
+            {
+       
+                P1CheckBox.IsChecked = true;
+
+            }
+            if (number2 == AlphabeticalCallNumber2TB.Text)
+            {
+    
+                P2CheckBox.IsChecked = true;
+         
+            }
+            if (number3 == AlphabeticalCallNumber3TB.Text)
+            {
+   
+                P3CheckBox.IsChecked = true;
+    
+            }
+            if (number4 == AlphabeticalCallNumber4TB.Text)
+            {
+        
+                P4CheckBox.IsChecked = true;
+         
+            }
+            if (number5 == AlphabeticalCallNumber5TB.Text)
+            {
+             
+                P5CheckBox.IsChecked = true;
+        
+            }
+            if (number6 == AlphabeticalCallNumber6TB.Text)
+            {
+        
+                P6CheckBox.IsChecked = true;
+  
+            }
+            if (number7 == AlphabeticalCallNumber7TB.Text)
+            {
+               
+                P7CheckBox.IsChecked = true;
+          
+            }
+            if (number8 == AlphabeticalCallNumber8TB.Text)
+            {
+               
+                P8CheckBox.IsChecked = true;
+        
+            }
+            if (number9 == AlphabeticalCallNumber9TB.Text)
+            {
+               
+                P9CheckBox.IsChecked = true;
+             
+            }
+            if (number10 == AlphabeticalCallNumber10TB.Text)
+            {
+              
+                P10CheckBox.IsChecked = true;
+               
+            }
